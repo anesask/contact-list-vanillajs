@@ -1,1 +1,3 @@
-# contact-list-vanillajs
+# Simple VanillaJS filterable contact list
+
+JavaScript weekend workout with Materialize CSS
